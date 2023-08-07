@@ -4,3 +4,5 @@ git clone git@github.com:develone/pico_w-valve-pcb.git
 
 if you do not own the repo
 git clone https://github.com/develone/pico_w-valve-pcb.git
+
+create the project pico_w-valve-ctrl

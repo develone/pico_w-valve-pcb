@@ -1,0 +1,2 @@
+08/07/23 test kicad project
+git clone git@github.com:develone/pico_w-valve-pcb.git
